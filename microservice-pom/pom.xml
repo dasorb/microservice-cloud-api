@@ -100,7 +100,7 @@
     </dependencyManagement>
 
     <dependencies>
-        <!-- 父类引入springboot,springboot-web-start,fastjson,slf4j,lombok -->
+        <!-- 父类引入springboot,springboot-web-start,fastjson,slf4j,lombok,alibaba druid, mybatis-plus -->
 
         <!-- 引入springboot -->
         <dependency>
@@ -114,6 +114,7 @@
             </exclusions>
         </dependency>
 
+        <!-- 引入springboot-test -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -157,6 +158,13 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+        </dependency>
+
+        <!-- 运营平台公共组件 -->
+        <dependency>
+            <groupId>com.dasorb</groupId>
+            <artifactId>framwork-common</artifactId>
+            <version>${project.build.version}</version>
         </dependency>
 
     </dependencies>

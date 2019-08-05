@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/microservice-erueka/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-pom/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/framwork-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-common/pom.xml" />
       </list>
     </option>
   </component>

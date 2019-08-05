@@ -14,4 +14,8 @@ eureka:
       defaultZone: http://localhost:${server.port}/eureka/ # 设置与EurekaServer交互的地址，多个地址可使用，分割
   instance:
     prefer-ip-address: true # 使用ip地址注册到服务中心
+  # 测试用
+  server:
+    evictionIntervalTimerInMs: 20000 #每间隔30秒剔除一次下线的服务
+    enableSelfPreservation: false #关闭Eureka的自我保护
 

@@ -109,3 +109,688 @@
 2019-08-05 16:25:13  [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater:1808025] - [PeerAwareInstanceRegistryImpl.java:541] - [INFO]  Current renewal threshold is : 1
 2019-08-05 16:25:13  [Eureka-EvictionTimer:1808203] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
 2019-08-05 16:26:13  [Eureka-EvictionTimer:1868203] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:27:13  [Eureka-EvictionTimer:1928204] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 1ms
+2019-08-05 16:28:13  [Eureka-EvictionTimer:1988205] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:29:13  [Eureka-EvictionTimer:2048206] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:30:13  [Eureka-EvictionTimer:2108206] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:31:13  [Eureka-EvictionTimer:2168206] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:32:13  [Eureka-EvictionTimer:2228206] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:33:13  [Eureka-EvictionTimer:2288207] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:34:13  [Eureka-EvictionTimer:2348208] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:35:13  [Eureka-EvictionTimer:2408208] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:36:13  [Eureka-EvictionTimer:2468208] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:37:13  [Eureka-EvictionTimer:2528230] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 21ms
+2019-08-05 16:38:13  [Eureka-EvictionTimer:2588231] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:39:13  [Eureka-EvictionTimer:2648231] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:40:13  [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater:2708027] - [PeerAwareInstanceRegistryImpl.java:541] - [INFO]  Current renewal threshold is : 1
+2019-08-05 16:40:13  [Eureka-EvictionTimer:2708232] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:41:13  [Eureka-EvictionTimer:2768232] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:42:13  [Eureka-EvictionTimer:2828232] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:43:13  [Eureka-EvictionTimer:2888233] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:44:13  [Eureka-EvictionTimer:2948234] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:45:13  [Eureka-EvictionTimer:3008235] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 1ms
+2019-08-05 16:46:13  [Eureka-EvictionTimer:3068236] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:47:13  [Eureka-EvictionTimer:3128255] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 19ms
+2019-08-05 16:48:13  [Eureka-EvictionTimer:3188255] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:49:13  [Eureka-EvictionTimer:3248257] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 1ms
+2019-08-05 16:50:13  [Eureka-EvictionTimer:3308257] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:51:13  [Eureka-EvictionTimer:3368258] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:52:13  [Eureka-EvictionTimer:3428259] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 16:52:22  [Thread-32:3436938] - [AbstractApplicationContext.java:993] - [INFO]  Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@15bcf458: startup date [Mon Aug 05 15:55:07 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@1130520d
+2019-08-05 16:52:22  [Thread-32:3437008] - [EurekaServiceRegistry.java:65] - [INFO]  Unregistering application microservice-cloud-eureka with eureka with status DOWN
+2019-08-05 16:52:22  [Thread-32:3437094] - [DefaultLifecycleProcessor.java:366] - [INFO]  Stopping beans in phase 0
+2019-08-05 16:52:22  [Thread-32:3437114] - [DefaultEurekaServerContext.java:76] - [INFO]  Shutting down ...
+2019-08-05 16:52:22  [Thread-32:3437150] - [DefaultEurekaServerContext.java:79] - [INFO]  Shut down
+2019-08-05 16:52:22  [Thread-32:3437190] - [MBeanExporter.java:451] - [INFO]  Unregistering JMX-exposed beans on shutdown
+2019-08-05 16:52:22  [Thread-32:3437193] - [MBeanRegistrationSupport.java:183] - [INFO]  Unregistering JMX-exposed beans
+2019-08-05 16:52:22  [Thread-32:3437241] - [DiscoveryClient.java:888] - [INFO]  Shutting down DiscoveryClient ...
+2019-08-05 16:52:22  [Thread-32:3437241] - [DiscoveryClient.java:911] - [INFO]  Completed shut down of DiscoveryClient
+2019-08-05 16:58:08  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-08-05 16:58:08  [main:597] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4416d64f: startup date [Mon Aug 05 16:58:08 CST 2019]; root of context hierarchy
+2019-08-05 16:58:09  [main:1062] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 16:58:09  [main:1146] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$eba5caea] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 16:58:09  [main:1553] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-08-05 16:58:09  [main:1574] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@29539e36: startup date [Mon Aug 05 16:58:09 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@4416d64f
+2019-08-05 16:58:10  [main:2205] - [Logger.java:44] - [WARN]  No MyBatis mapper was found in '[com.dasorb.eureka]' package. Please check your configuration.
+2019-08-05 16:58:10  [main:2671] - [GenericScope.java:294] - [INFO]  BeanFactory id=650c075c-9acf-3bba-93e6-57945595ad41
+2019-08-05 16:58:10  [main:2687] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 16:58:11  [main:2796] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cf8bc7ed] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 16:58:11  [main:2830] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$eba5caea] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 16:58:11  [main:3101] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 8761 (http)
+2019-08-05 16:58:11  [localhost-startStop-1:3346] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 1772 ms
+2019-08-05 16:58:11  [localhost-startStop-1:3750] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 16:58:11  [localhost-startStop-1:3750] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 16:58:12  [localhost-startStop-1:3764] - [DynamicPropertyFactory.java:281] - [INFO]  DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@52391183
+2019-08-05 16:58:12  [localhost-startStop-1:4227] - [DruidDataSourceAutoConfigure.java:56] - [INFO]  Init DruidDataSource
+2019-08-05 16:58:12  [localhost-startStop-1:4337] - [TomcatStarter.java:62] - [ERROR]  Error starting Tomcat context. Exception: org.springframework.beans.factory.BeanCreationException. Message: Error creating bean with name 'servletEndpointRegistrar' defined in class path resource [org/springframework/boot/actuate/autoconfigure/endpoint/web/ServletEndpointManagementContextConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.endpoint.web.ServletEndpointRegistrar]: Factory method 'servletEndpointRegistrar' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'healthEndpoint' defined in class path resource [org/springframework/boot/actuate/autoconfigure/health/HealthEndpointConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.health.HealthEndpoint]: Factory method 'healthEndpoint' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration$$EnhancerBySpringCGLIB$$3e701973]: Constructor threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-08-05 16:58:12  [main:4374] - [AbstractApplicationContext.java:558] - [WARN]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+2019-08-05 16:58:12  [main:4383] - [ConditionEvaluationReportLoggingListener.java:101] - [INFO]  
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-05 16:58:12  [main:4388] - [LoggingFailureAnalysisReporter.java:42] - [ERROR]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to auto-configure a DataSource: 'spring.datasource.url' is not specified and no embedded datasource could be auto-configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-08-05 16:59:28  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-08-05 16:59:29  [main:707] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@60b4beb4: startup date [Mon Aug 05 16:59:29 CST 2019]; root of context hierarchy
+2019-08-05 16:59:30  [main:1295] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 16:59:30  [main:1414] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$48653d4f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 16:59:31  [main:2153] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-08-05 16:59:31  [main:2182] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7db0565c: startup date [Mon Aug 05 16:59:31 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@60b4beb4
+2019-08-05 16:59:32  [main:3177] - [Logger.java:44] - [WARN]  No MyBatis mapper was found in '[com.dasorb.eureka]' package. Please check your configuration.
+2019-08-05 16:59:33  [main:4337] - [GenericScope.java:294] - [INFO]  BeanFactory id=650c075c-9acf-3bba-93e6-57945595ad41
+2019-08-05 16:59:33  [main:4368] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 16:59:33  [main:4682] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2c4b3a52] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 16:59:33  [main:4761] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$48653d4f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 16:59:34  [main:5335] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 8761 (http)
+2019-08-05 16:59:34  [localhost-startStop-1:5618] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 3436 ms
+2019-08-05 16:59:35  [localhost-startStop-1:6118] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 16:59:35  [localhost-startStop-1:6118] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 16:59:35  [localhost-startStop-1:6128] - [DynamicPropertyFactory.java:281] - [INFO]  DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@2bbe5a1b
+2019-08-05 16:59:35  [localhost-startStop-1:6777] - [DruidDataSourceAutoConfigure.java:56] - [INFO]  Init DruidDataSource
+2019-08-05 16:59:35  [localhost-startStop-1:6885] - [TomcatStarter.java:62] - [ERROR]  Error starting Tomcat context. Exception: org.springframework.beans.factory.BeanCreationException. Message: Error creating bean with name 'servletEndpointRegistrar' defined in class path resource [org/springframework/boot/actuate/autoconfigure/endpoint/web/ServletEndpointManagementContextConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.endpoint.web.ServletEndpointRegistrar]: Factory method 'servletEndpointRegistrar' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'healthEndpoint' defined in class path resource [org/springframework/boot/actuate/autoconfigure/health/HealthEndpointConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.health.HealthEndpoint]: Factory method 'healthEndpoint' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration$$EnhancerBySpringCGLIB$$9b2f8bd8]: Constructor threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-08-05 16:59:35  [main:6917] - [AbstractApplicationContext.java:558] - [WARN]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+2019-08-05 16:59:35  [main:6927] - [ConditionEvaluationReportLoggingListener.java:101] - [INFO]  
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-05 16:59:35  [main:6933] - [LoggingFailureAnalysisReporter.java:42] - [ERROR]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to auto-configure a DataSource: 'spring.datasource.url' is not specified and no embedded datasource could be auto-configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-08-05 17:00:36  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-08-05 17:00:37  [main:1059] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@35b74c5c: startup date [Mon Aug 05 17:00:37 CST 2019]; root of context hierarchy
+2019-08-05 17:00:38  [main:1793] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:00:38  [main:1862] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$af5d2aa2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:00:38  [main:2102] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-08-05 17:00:38  [main:2113] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@55e7a35c: startup date [Mon Aug 05 17:00:38 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@35b74c5c
+2019-08-05 17:00:38  [main:2564] - [Logger.java:44] - [WARN]  No MyBatis mapper was found in '[com.dasorb.eureka]' package. Please check your configuration.
+2019-08-05 17:00:39  [main:2818] - [DefaultListableBeanFactory.java:824] - [INFO]  Overriding bean definition for bean 'dataSource' with a different definition: replacing [Root bean: class [null]; scope=refresh; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]] with [Root bean: class [org.springframework.aop.scope.ScopedProxyFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in BeanDefinition defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]]
+2019-08-05 17:00:39  [main:3026] - [GenericScope.java:294] - [INFO]  BeanFactory id=f671c3b9-26bc-3fd3-b970-c011a37327c6
+2019-08-05 17:00:39  [main:3057] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:00:39  [main:3171] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$934327a5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:00:39  [main:3204] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$af5d2aa2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:00:39  [main:3462] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 8761 (http)
+2019-08-05 17:00:40  [localhost-startStop-1:3657] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 1544 ms
+2019-08-05 17:00:40  [localhost-startStop-1:3929] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:00:40  [localhost-startStop-1:3930] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:00:40  [localhost-startStop-1:3941] - [DynamicPropertyFactory.java:281] - [INFO]  DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@3833678e
+2019-08-05 17:00:40  [localhost-startStop-1:4508] - [TomcatStarter.java:62] - [ERROR]  Error starting Tomcat context. Exception: org.springframework.beans.factory.BeanCreationException. Message: Error creating bean with name 'servletEndpointRegistrar' defined in class path resource [org/springframework/boot/actuate/autoconfigure/endpoint/web/ServletEndpointManagementContextConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.endpoint.web.ServletEndpointRegistrar]: Factory method 'servletEndpointRegistrar' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'healthEndpoint' defined in class path resource [org/springframework/boot/actuate/autoconfigure/health/HealthEndpointConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.health.HealthEndpoint]: Factory method 'healthEndpoint' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration$$EnhancerBySpringCGLIB$$227792b]: Constructor threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource': Post-processing of FactoryBean's singleton object failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'scopedTarget.dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-08-05 17:00:40  [main:4536] - [AbstractApplicationContext.java:558] - [WARN]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+2019-08-05 17:00:40  [main:4545] - [ConditionEvaluationReportLoggingListener.java:101] - [INFO]  
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-05 17:00:40  [main:4551] - [LoggingFailureAnalysisReporter.java:42] - [ERROR]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to auto-configure a DataSource: 'spring.datasource.url' is not specified and no embedded datasource could be auto-configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-08-05 17:01:37  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-08-05 17:01:38  [main:849] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@40317ba2: startup date [Mon Aug 05 17:01:38 CST 2019]; root of context hierarchy
+2019-08-05 17:01:38  [main:1466] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:01:39  [main:1525] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$c451270e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:01:39  [main:2040] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-08-05 17:01:39  [main:2068] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@34abdee4: startup date [Mon Aug 05 17:01:39 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@40317ba2
+2019-08-05 17:01:41  [main:4440] - [GenericScope.java:294] - [INFO]  BeanFactory id=6cdf0269-340b-36a0-af27-fa366125f66b
+2019-08-05 17:01:42  [main:4526] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:01:42  [main:4871] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$c451270e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:01:43  [main:5529] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 8761 (http)
+2019-08-05 17:01:43  [localhost-startStop-1:5826] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 3758 ms
+2019-08-05 17:01:43  [localhost-startStop-1:6277] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:01:43  [localhost-startStop-1:6278] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:01:43  [localhost-startStop-1:6298] - [DynamicPropertyFactory.java:281] - [INFO]  DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@1b6a6c2b
+2019-08-05 17:01:46  [localhost-startStop-1:8682] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-08-05 17:01:46  [localhost-startStop-1:8683] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-08-05 17:01:46  [localhost-startStop-1:8686] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-08-05 17:01:46  [localhost-startStop-1:8686] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'requestContextFilter' to: [/*]
+2019-08-05 17:01:46  [localhost-startStop-1:8687] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpTraceFilter' to: [/*]
+2019-08-05 17:01:46  [localhost-startStop-1:8687] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'webMvcMetricsFilter' to: [/*]
+2019-08-05 17:01:46  [localhost-startStop-1:8687] - [AbstractFilterRegistrationBean.java:257] - [INFO]  Mapping filter: 'servletContainer' to urls: [/eureka/*]
+2019-08-05 17:01:46  [localhost-startStop-1:8687] - [ServletRegistrationBean.java:185] - [INFO]  Servlet dispatcherServlet mapped to [/]
+2019-08-05 17:01:46  [localhost-startStop-1:9093] - [DiscoveryJerseyProvider.java:70] - [INFO]  Using JSON encoding codec LegacyJacksonJson
+2019-08-05 17:01:46  [localhost-startStop-1:9093] - [DiscoveryJerseyProvider.java:71] - [INFO]  Using JSON decoding codec LegacyJacksonJson
+2019-08-05 17:01:46  [localhost-startStop-1:9388] - [DiscoveryJerseyProvider.java:80] - [INFO]  Using XML encoding codec XStreamXml
+2019-08-05 17:01:46  [localhost-startStop-1:9389] - [DiscoveryJerseyProvider.java:81] - [INFO]  Using XML decoding codec XStreamXml
+2019-08-05 17:01:47  [main:10180] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:01:47  [main:10180] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:01:47  [main:10345] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:01:48  [main:10698] - [RequestMappingHandlerAdapter.java:574] - [INFO]  Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@34abdee4: startup date [Mon Aug 05 17:01:39 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@40317ba2
+2019-08-05 17:01:48  [main:10795] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-08-05 17:01:48  [main:10797] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-08-05 17:01:48  [main:10809] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2019-08-05 17:01:48  [main:10810] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2019-08-05 17:01:48  [main:10852] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:01:48  [main:10852] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:01:49  [main:11558] - [SpringTemplateLoader.java:62] - [INFO]  SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@34abdee4: startup date [Mon Aug 05 17:01:39 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@40317ba2] and template loader path [classpath:/templates/]
+2019-08-05 17:01:49  [main:11559] - [FreeMarkerConfigurer.java:131] - [INFO]  ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2019-08-05 17:01:49  [main:11747] - [InstanceInfoFactory.java:71] - [INFO]  Setting initial instance status as: STARTING
+2019-08-05 17:01:49  [main:11811] - [DiscoveryClient.java:349] - [INFO]  Initializing Eureka in region us-east-1
+2019-08-05 17:01:49  [main:11812] - [DiscoveryClient.java:352] - [INFO]  Client configured to neither register nor query for data.
+2019-08-05 17:01:49  [main:11823] - [DiscoveryClient.java:365] - [INFO]  Discovery Client initialized at timestamp 1564995709304 with initial instances count: 0
+2019-08-05 17:01:49  [main:11903] - [DefaultEurekaServerContext.java:63] - [INFO]  Initializing ...
+2019-08-05 17:01:49  [main:11905] - [PeerEurekaNodes.java:188] - [INFO]  Adding new peer nodes [http://localhost:8761/eureka/]
+2019-08-05 17:01:49  [main:12214] - [DiscoveryJerseyProvider.java:70] - [INFO]  Using JSON encoding codec LegacyJacksonJson
+2019-08-05 17:01:49  [main:12214] - [DiscoveryJerseyProvider.java:71] - [INFO]  Using JSON decoding codec LegacyJacksonJson
+2019-08-05 17:01:49  [main:12215] - [DiscoveryJerseyProvider.java:80] - [INFO]  Using XML encoding codec XStreamXml
+2019-08-05 17:01:49  [main:12215] - [DiscoveryJerseyProvider.java:81] - [INFO]  Using XML decoding codec XStreamXml
+2019-08-05 17:01:49  [main:12351] - [PeerEurekaNodes.java:110] - [INFO]  Replica node URL:  http://localhost:8761/eureka/
+2019-08-05 17:01:49  [main:12359] - [AbstractInstanceRegistry.java:151] - [INFO]  Finished initializing remote region registries. All known remote regions: []
+2019-08-05 17:01:49  [main:12360] - [DefaultEurekaServerContext.java:70] - [INFO]  Initialized
+2019-08-05 17:01:49  [main:12377] - [EndpointLinksResolver.java:59] - [INFO]  Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-08-05 17:01:49  [main:12389] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-08-05 17:01:49  [main:12390] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-08-05 17:01:49  [main:12390] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-08-05 17:01:49  [main:12447] - [MBeanExporter.java:433] - [INFO]  Registering beans for JMX exposure on startup
+2019-08-05 17:01:49  [main:12462] - [MBeanExporter.java:895] - [INFO]  Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-08-05 17:01:49  [main:12463] - [MBeanExporter.java:895] - [INFO]  Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-08-05 17:01:49  [main:12464] - [MBeanExporter.java:895] - [INFO]  Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-08-05 17:01:49  [main:12468] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-08-05 17:01:49  [main:12477] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-08-05 17:01:49  [main:12490] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=34abdee4,type=ConfigurationPropertiesRebinder]
+2019-08-05 17:01:49  [main:12501] - [DefaultLifecycleProcessor.java:351] - [INFO]  Starting beans in phase 0
+2019-08-05 17:01:49  [main:12509] - [EurekaServiceRegistry.java:42] - [INFO]  Registering application microservice-cloud-eureka with eureka with status UP
+2019-08-05 17:01:49  [Thread-38:12512] - [EurekaServerBootstrap.java:109] - [INFO]  Setting the eureka configuration..
+2019-08-05 17:01:49  [Thread-38:12513] - [EurekaServerBootstrap.java:114] - [INFO]  Eureka data center value eureka.datacenter is not set, defaulting to default
+2019-08-05 17:01:49  [Thread-38:12513] - [EurekaServerBootstrap.java:128] - [INFO]  Eureka environment value eureka.environment is not set, defaulting to test
+2019-08-05 17:01:50  [Thread-38:12528] - [EurekaServerBootstrap.java:184] - [INFO]  isAws returned false
+2019-08-05 17:01:50  [Thread-38:12528] - [EurekaServerBootstrap.java:152] - [INFO]  Initialized server context
+2019-08-05 17:01:50  [Thread-38:12529] - [PeerAwareInstanceRegistryImpl.java:242] - [INFO]  Got 1 instances from neighboring DS node
+2019-08-05 17:01:50  [Thread-38:12529] - [PeerAwareInstanceRegistryImpl.java:243] - [INFO]  Renew threshold is: 1
+2019-08-05 17:01:50  [Thread-38:12529] - [PeerAwareInstanceRegistryImpl.java:254] - [INFO]  Changing status to UP
+2019-08-05 17:01:50  [Thread-38:12541] - [EurekaServerInitializerConfiguration.java:72] - [INFO]  Started Eureka Server
+2019-08-05 17:01:50  [main:12564] - [TomcatWebServer.java:206] - [INFO]  Tomcat started on port(s): 8761 (http) with context path ''
+2019-08-05 17:01:50  [main:12565] - [EurekaAutoServiceRegistration.java:124] - [INFO]  Updating port to 8761
+2019-08-05 17:01:50  [main:12568] - [StartupInfoLogger.java:59] - [INFO]  Started EurekaApplication in 12.898 seconds (JVM running for 15.423)
+2019-08-05 17:01:50  [RMI TCP Connection(1)-10.1.75.9:12869] - [FrameworkServlet.java:494] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization started
+2019-08-05 17:01:50  [RMI TCP Connection(1)-10.1.75.9:12906] - [FrameworkServlet.java:509] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization completed in 37 ms
+2019-08-05 17:02:17  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-08-05 17:02:18  [main:626] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7fc4780b: startup date [Mon Aug 05 17:02:18 CST 2019]; root of context hierarchy
+2019-08-05 17:02:19  [main:1217] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:02:19  [main:1298] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$c451270e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:02:19  [main:1935] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-08-05 17:02:19  [main:1970] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@16afbd92: startup date [Mon Aug 05 17:02:19 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7fc4780b
+2019-08-05 17:02:20  [main:2920] - [Logger.java:44] - [WARN]  No MyBatis mapper was found in '[com.dasorb.framworkadmin]' package. Please check your configuration.
+2019-08-05 17:02:21  [main:3245] - [GenericScope.java:294] - [INFO]  BeanFactory id=7ac2e4f0-c08d-3e90-a18f-d752881ffab6
+2019-08-05 17:02:21  [main:3262] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:02:21  [main:3386] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a8372411] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:02:21  [main:3421] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$c451270e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:02:21  [main:3693] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 9000 (http)
+2019-08-05 17:02:21  [localhost-startStop-1:3862] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 1892 ms
+2019-08-05 17:02:21  [localhost-startStop-1:4066] - [ServletRegistrationBean.java:185] - [INFO]  Servlet dispatcherServlet mapped to [/]
+2019-08-05 17:02:21  [localhost-startStop-1:4068] - [ServletRegistrationBean.java:185] - [INFO]  Servlet statViewServlet mapped to [/druid/*]
+2019-08-05 17:02:21  [localhost-startStop-1:4072] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-08-05 17:02:21  [localhost-startStop-1:4073] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-08-05 17:02:21  [localhost-startStop-1:4074] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-08-05 17:02:21  [localhost-startStop-1:4074] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'requestContextFilter' to: [/*]
+2019-08-05 17:02:21  [localhost-startStop-1:4074] - [AbstractFilterRegistrationBean.java:257] - [INFO]  Mapping filter: 'webStatFilter' to urls: [/*]
+2019-08-05 17:02:22  [main:4135] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:02:22  [main:4136] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:02:22  [main:4140] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:02:22  [main:4140] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:02:22  [main:4232] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:02:22  [main:4492] - [RequestMappingHandlerAdapter.java:574] - [INFO]  Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@16afbd92: startup date [Mon Aug 05 17:02:19 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7fc4780b
+2019-08-05 17:02:22  [main:4555] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/hello/world],methods=[GET]}" onto public java.lang.Object com.dasorb.framworkadmin.controller.TestController.test()
+2019-08-05 17:02:22  [main:4559] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-08-05 17:02:22  [main:4560] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-08-05 17:02:22  [main:4615] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:02:22  [main:4615] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:02:22  [main:4848] - [DruidDataSourceAutoConfigure.java:56] - [INFO]  Init DruidDataSource
+2019-08-05 17:02:22  [main:5095] - [DruidDataSource.java:870] - [ERROR]  init datasource error, url: jdbc:mysql:///test?characterEncoding=utf8&useSSL=false
+java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:871)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1714)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1224)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2190)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2221)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2016)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:149)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:218)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:143)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1515)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1578)
+	at com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:859)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeCustomInitMethod(AbstractAutowireCapableBeanFactory.java:1827)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1770)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1698)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:501)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.dasorb.framworkadmin.FramworkAdminApplication.main(FramworkAdminApplication.java:12)
+2019-08-05 17:02:22  [main:5104] - [DruidDataSource.java:903] - [ERROR]  {dataSource-1} init error
+java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:871)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1714)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1224)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2190)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2221)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2016)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:149)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:218)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:143)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1515)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1578)
+	at com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:859)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeCustomInitMethod(AbstractAutowireCapableBeanFactory.java:1827)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1770)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1698)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:501)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.dasorb.framworkadmin.FramworkAdminApplication.main(FramworkAdminApplication.java:12)
+2019-08-05 17:02:22  [main:5106] - [DruidDataSource.java:928] - [INFO]  {dataSource-1} inited
+2019-08-05 17:02:22  [main:5107] - [AbstractApplicationContext.java:558] - [WARN]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+2019-08-05 17:02:22  [Druid-ConnectionPool-Create-2107105388:5108] - [DruidDataSource.java:2469] - [ERROR]  create connection SQLException, url: jdbc:mysql:///test?characterEncoding=utf8&useSSL=false, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:871)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1714)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1224)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2190)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2221)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2016)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:149)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:218)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:143)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1515)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1578)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2466)
+2019-08-05 17:02:22  [Druid-ConnectionPool-Create-2107105388:5111] - [DruidDataSource.java:2469] - [ERROR]  create connection SQLException, url: jdbc:mysql:///test?characterEncoding=utf8&useSSL=false, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:871)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1714)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1224)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2190)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2221)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2016)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:149)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:218)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:143)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1515)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1578)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2466)
+2019-08-05 17:02:23  [main:5127] - [ConditionEvaluationReportLoggingListener.java:101] - [INFO]  
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-05 17:02:23  [main:5134] - [SpringApplication.java:842] - [ERROR]  Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1702)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:501)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at com.dasorb.framworkadmin.FramworkAdminApplication.main(FramworkAdminApplication.java:12)
+Caused by: java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:871)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1714)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1224)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2190)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2221)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2016)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:149)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:218)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:143)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1515)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1578)
+	at com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:859)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeCustomInitMethod(AbstractAutowireCapableBeanFactory.java:1827)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1770)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1698)
+	... 16 more
+2019-08-05 17:02:50  [Eureka-EvictionTimer:72530] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:03:13  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-08-05 17:03:13  [main:567] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@660acfb: startup date [Mon Aug 05 17:03:13 CST 2019]; root of context hierarchy
+2019-08-05 17:03:14  [main:1062] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:03:14  [main:1139] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$89fe68dc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:03:14  [main:1575] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-08-05 17:03:14  [main:1592] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3f19b8b3: startup date [Mon Aug 05 17:03:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@660acfb
+2019-08-05 17:03:15  [main:2215] - [Logger.java:44] - [WARN]  No MyBatis mapper was found in '[com.dasorb.framworkadmin]' package. Please check your configuration.
+2019-08-05 17:03:15  [main:2569] - [GenericScope.java:294] - [INFO]  BeanFactory id=7ac2e4f0-c08d-3e90-a18f-d752881ffab6
+2019-08-05 17:03:15  [main:2592] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:03:16  [main:2872] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6de465df] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:03:16  [main:2944] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$89fe68dc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:03:16  [main:3511] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 9000 (http)
+2019-08-05 17:03:17  [localhost-startStop-1:3804] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 2212 ms
+2019-08-05 17:03:17  [localhost-startStop-1:4038] - [ServletRegistrationBean.java:185] - [INFO]  Servlet dispatcherServlet mapped to [/]
+2019-08-05 17:03:17  [localhost-startStop-1:4040] - [ServletRegistrationBean.java:185] - [INFO]  Servlet statViewServlet mapped to [/druid/*]
+2019-08-05 17:03:17  [localhost-startStop-1:4045] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-08-05 17:03:17  [localhost-startStop-1:4047] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-08-05 17:03:17  [localhost-startStop-1:4049] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-08-05 17:03:17  [localhost-startStop-1:4049] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'requestContextFilter' to: [/*]
+2019-08-05 17:03:17  [localhost-startStop-1:4049] - [AbstractFilterRegistrationBean.java:257] - [INFO]  Mapping filter: 'webStatFilter' to urls: [/*]
+2019-08-05 17:03:17  [main:4149] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:03:17  [main:4149] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:03:17  [main:4155] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:03:17  [main:4156] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:03:17  [main:4308] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:03:17  [main:4553] - [RequestMappingHandlerAdapter.java:574] - [INFO]  Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3f19b8b3: startup date [Mon Aug 05 17:03:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@660acfb
+2019-08-05 17:03:18  [main:4638] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/hello/world],methods=[GET]}" onto public java.lang.Object com.dasorb.framworkadmin.controller.TestController.test()
+2019-08-05 17:03:18  [main:4641] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-08-05 17:03:18  [main:4642] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-08-05 17:03:18  [main:4672] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:03:18  [main:4672] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:03:18  [main:4903] - [DruidDataSourceAutoConfigure.java:56] - [INFO]  Init DruidDataSource
+2019-08-05 17:03:18  [main:5335] - [DruidDataSource.java:928] - [INFO]  {dataSource-1} inited
+2019-08-05 17:03:19  [main:6116] - [MBeanExporter.java:433] - [INFO]  Registering beans for JMX exposure on startup
+2019-08-05 17:03:19  [main:6117] - [MBeanExporter.java:895] - [INFO]  Bean with name 'statFilter' has been autodetected for JMX exposure
+2019-08-05 17:03:19  [main:6118] - [MBeanExporter.java:895] - [INFO]  Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-08-05 17:03:19  [main:6125] - [MBeanExporter.java:895] - [INFO]  Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-08-05 17:03:19  [main:6126] - [MBeanExporter.java:895] - [INFO]  Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-08-05 17:03:19  [main:6126] - [MBeanExporter.java:895] - [INFO]  Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-08-05 17:03:19  [main:6129] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-08-05 17:03:19  [main:6140] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-08-05 17:03:19  [main:6149] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=3f19b8b3,type=ConfigurationPropertiesRebinder]
+2019-08-05 17:03:19  [main:6154] - [MBeanExporter.java:668] - [INFO]  Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.spring.boot.autoconfigure:name=dataSource,type=DruidDataSourceWrapper]
+2019-08-05 17:03:19  [main:6155] - [MBeanExporter.java:668] - [INFO]  Located MBean 'statFilter': registering with JMX server as MBean [com.alibaba.druid.filter.stat:name=statFilter,type=StatFilter]
+2019-08-05 17:03:19  [main:6159] - [DefaultLifecycleProcessor.java:351] - [INFO]  Starting beans in phase 0
+2019-08-05 17:03:19  [main:6172] - [InstanceInfoFactory.java:71] - [INFO]  Setting initial instance status as: STARTING
+2019-08-05 17:03:19  [main:6208] - [DiscoveryClient.java:349] - [INFO]  Initializing Eureka in region us-east-1
+2019-08-05 17:03:19  [main:6464] - [DiscoveryJerseyProvider.java:70] - [INFO]  Using JSON encoding codec LegacyJacksonJson
+2019-08-05 17:03:19  [main:6464] - [DiscoveryJerseyProvider.java:71] - [INFO]  Using JSON decoding codec LegacyJacksonJson
+2019-08-05 17:03:19  [main:6576] - [DiscoveryJerseyProvider.java:80] - [INFO]  Using XML encoding codec XStreamXml
+2019-08-05 17:03:19  [main:6577] - [DiscoveryJerseyProvider.java:81] - [INFO]  Using XML decoding codec XStreamXml
+2019-08-05 17:03:20  [main:6862] - [ConfigClusterResolver.java:43] - [INFO]  Resolving eureka endpoints via configuration
+2019-08-05 17:03:20  [main:6906] - [DiscoveryClient.java:958] - [INFO]  Disable delta property : false
+2019-08-05 17:03:20  [main:6906] - [DiscoveryClient.java:959] - [INFO]  Single vip registry refresh property : null
+2019-08-05 17:03:20  [main:6907] - [DiscoveryClient.java:960] - [INFO]  Force full registry fetch : false
+2019-08-05 17:03:20  [main:6907] - [DiscoveryClient.java:961] - [INFO]  Application is null : false
+2019-08-05 17:03:20  [main:6907] - [DiscoveryClient.java:962] - [INFO]  Registered Applications size is zero : true
+2019-08-05 17:03:20  [main:6907] - [DiscoveryClient.java:964] - [INFO]  Application version is -1: true
+2019-08-05 17:03:20  [main:6907] - [DiscoveryClient.java:1047] - [INFO]  Getting all instance registry info from the eureka server
+2019-08-05 17:03:20  [main:7234] - [DiscoveryClient.java:1056] - [INFO]  The response status is 200
+2019-08-05 17:03:20  [main:7236] - [DiscoveryClient.java:1264] - [INFO]  Starting heartbeat executor: renew interval is: 30
+2019-08-05 17:03:20  [main:7239] - [InstanceInfoReplicator.java:60] - [INFO]  InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-08-05 17:03:20  [main:7243] - [DiscoveryClient.java:449] - [INFO]  Discovery Client initialized at timestamp 1564995800646 with initial instances count: 0
+2019-08-05 17:03:20  [main:7247] - [EurekaServiceRegistry.java:42] - [INFO]  Registering application microservice-service-admin with eureka with status UP
+2019-08-05 17:03:20  [main:7247] - [DiscoveryClient.java:1299] - [INFO]  Saw local status change event StatusChangeEvent [timestamp=1564995800651, current=UP, previous=STARTING]
+2019-08-05 17:03:20  [DiscoveryClient-InstanceInfoReplicator-0:7249] - [DiscoveryClient.java:826] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000: registering service...
+2019-08-05 17:03:20  [main:7311] - [TomcatWebServer.java:206] - [INFO]  Tomcat started on port(s): 9000 (http) with context path '/admin'
+2019-08-05 17:03:20  [main:7313] - [EurekaAutoServiceRegistration.java:124] - [INFO]  Updating port to 9000
+2019-08-05 17:03:20  [main:7315] - [StartupInfoLogger.java:59] - [INFO]  Started FramworkAdminApplication in 7.578 seconds (JVM running for 8.63)
+2019-08-05 17:03:20  [http-nio-8761-exec-2:103283] - [AbstractInstanceRegistry.java:269] - [INFO]  Registered instance MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 with status UP (replication=false)
+2019-08-05 17:03:20  [DiscoveryClient-InstanceInfoReplicator-0:7366] - [DiscoveryClient.java:835] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 - registration status: 204
+2019-08-05 17:03:21  [http-nio-8761-exec-3:103919] - [AbstractInstanceRegistry.java:269] - [INFO]  Registered instance MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 with status UP (replication=true)
+2019-08-05 17:03:50  [Eureka-EvictionTimer:132531] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37236] - [DiscoveryClient.java:958] - [INFO]  Disable delta property : false
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37237] - [DiscoveryClient.java:959] - [INFO]  Single vip registry refresh property : null
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37237] - [DiscoveryClient.java:960] - [INFO]  Force full registry fetch : false
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37237] - [DiscoveryClient.java:961] - [INFO]  Application is null : false
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37238] - [DiscoveryClient.java:962] - [INFO]  Registered Applications size is zero : true
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37239] - [DiscoveryClient.java:964] - [INFO]  Application version is -1: false
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37239] - [DiscoveryClient.java:1047] - [INFO]  Getting all instance registry info from the eureka server
+2019-08-05 17:03:50  [DiscoveryClient-CacheRefreshExecutor-0:37326] - [DiscoveryClient.java:1056] - [INFO]  The response status is 200
+2019-08-05 17:03:58  [http-nio-9000-exec-2:44689] - [FrameworkServlet.java:494] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization started
+2019-08-05 17:03:58  [http-nio-9000-exec-2:44723] - [FrameworkServlet.java:509] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization completed in 33 ms
+2019-08-05 17:04:50  [Eureka-EvictionTimer:192531] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:05:50  [Eureka-EvictionTimer:252531] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:06:07  [Thread-22:173874] - [AbstractApplicationContext.java:993] - [INFO]  Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3f19b8b3: startup date [Mon Aug 05 17:03:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@660acfb
+2019-08-05 17:06:07  [Thread-22:173875] - [EurekaServiceRegistry.java:65] - [INFO]  Unregistering application microservice-service-admin with eureka with status DOWN
+2019-08-05 17:06:07  [Thread-22:173875] - [DiscoveryClient.java:1297] - [WARN]  Saw local status change event StatusChangeEvent [timestamp=1564995967279, current=DOWN, previous=UP]
+2019-08-05 17:06:07  [DiscoveryClient-InstanceInfoReplicator-0:173876] - [DiscoveryClient.java:826] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000: registering service...
+2019-08-05 17:06:07  [Thread-22:173877] - [DefaultLifecycleProcessor.java:366] - [INFO]  Stopping beans in phase 0
+2019-08-05 17:06:07  [Thread-22:173879] - [MBeanExporter.java:451] - [INFO]  Unregistering JMX-exposed beans on shutdown
+2019-08-05 17:06:07  [Thread-22:173880] - [MBeanRegistrationSupport.java:183] - [INFO]  Unregistering JMX-exposed beans
+2019-08-05 17:06:07  [http-nio-8761-exec-1:269806] - [AbstractInstanceRegistry.java:269] - [INFO]  Registered instance MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 with status DOWN (replication=false)
+2019-08-05 17:06:07  [Thread-22:173887] - [DruidDataSource.java:1823] - [INFO]  {dataSource-1} closed
+2019-08-05 17:06:07  [DiscoveryClient-InstanceInfoReplicator-0:173888] - [DiscoveryClient.java:835] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 - registration status: 204
+2019-08-05 17:06:07  [Thread-22:173890] - [DiscoveryClient.java:888] - [INFO]  Shutting down DiscoveryClient ...
+2019-08-05 17:06:07  [Thread-22:173892] - [InitDestroyAnnotationBeanPostProcessor.java:163] - [WARN]  Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2019-08-05 17:06:07  [http-nio-8761-exec-3:270321] - [AbstractInstanceRegistry.java:269] - [INFO]  Registered instance MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 with status DOWN (replication=true)
+2019-08-05 17:06:11  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-08-05 17:06:11  [main:675] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@babafc2: startup date [Mon Aug 05 17:06:11 CST 2019]; root of context hierarchy
+2019-08-05 17:06:12  [main:1140] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:06:12  [main:1220] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$82797e0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:06:12  [main:1807] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-08-05 17:06:12  [main:1835] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@50b8ae8d: startup date [Mon Aug 05 17:06:12 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@babafc2
+2019-08-05 17:06:13  [main:2686] - [Logger.java:44] - [WARN]  No MyBatis mapper was found in '[com.dasorb.framworkadmin]' package. Please check your configuration.
+2019-08-05 17:06:14  [main:3169] - [GenericScope.java:294] - [INFO]  BeanFactory id=7ac2e4f0-c08d-3e90-a18f-d752881ffab6
+2019-08-05 17:06:14  [main:3188] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-05 17:06:14  [main:3344] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ec0d94e3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:06:14  [main:3404] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$82797e0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 17:06:14  [main:3776] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 9000 (http)
+2019-08-05 17:06:15  [localhost-startStop-1:4062] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 2227 ms
+2019-08-05 17:06:15  [localhost-startStop-1:4448] - [ServletRegistrationBean.java:185] - [INFO]  Servlet dispatcherServlet mapped to [/]
+2019-08-05 17:06:15  [localhost-startStop-1:4450] - [ServletRegistrationBean.java:185] - [INFO]  Servlet statViewServlet mapped to [/druid/*]
+2019-08-05 17:06:15  [localhost-startStop-1:4464] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-08-05 17:06:15  [localhost-startStop-1:4472] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-08-05 17:06:15  [localhost-startStop-1:4473] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-08-05 17:06:15  [localhost-startStop-1:4473] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'requestContextFilter' to: [/*]
+2019-08-05 17:06:15  [localhost-startStop-1:4473] - [AbstractFilterRegistrationBean.java:257] - [INFO]  Mapping filter: 'webStatFilter' to urls: [/*]
+2019-08-05 17:06:15  [main:4615] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:06:15  [main:4616] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:06:15  [main:4620] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-08-05 17:06:15  [main:4621] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-05 17:06:15  [main:4831] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:06:16  [main:5134] - [RequestMappingHandlerAdapter.java:574] - [INFO]  Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@50b8ae8d: startup date [Mon Aug 05 17:06:12 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@babafc2
+2019-08-05 17:06:16  [main:5213] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/hello/world],methods=[GET]}" onto public java.lang.Object com.dasorb.framworkadmin.controller.TestController.test()
+2019-08-05 17:06:16  [main:5217] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-08-05 17:06:16  [main:5218] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-08-05 17:06:16  [main:5248] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:06:16  [main:5249] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-05 17:06:16  [main:5485] - [DruidDataSourceAutoConfigure.java:56] - [INFO]  Init DruidDataSource
+2019-08-05 17:06:16  [main:5692] - [DruidDataSource.java:928] - [INFO]  {dataSource-1} inited
+2019-08-05 17:06:17  [main:6408] - [MBeanExporter.java:433] - [INFO]  Registering beans for JMX exposure on startup
+2019-08-05 17:06:17  [main:6409] - [MBeanExporter.java:895] - [INFO]  Bean with name 'statFilter' has been autodetected for JMX exposure
+2019-08-05 17:06:17  [main:6409] - [MBeanExporter.java:895] - [INFO]  Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-08-05 17:06:17  [main:6416] - [MBeanExporter.java:895] - [INFO]  Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-08-05 17:06:17  [main:6417] - [MBeanExporter.java:895] - [INFO]  Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-08-05 17:06:17  [main:6418] - [MBeanExporter.java:895] - [INFO]  Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-08-05 17:06:17  [main:6420] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-08-05 17:06:17  [main:6431] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-08-05 17:06:17  [main:6441] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=50b8ae8d,type=ConfigurationPropertiesRebinder]
+2019-08-05 17:06:17  [main:6446] - [MBeanExporter.java:668] - [INFO]  Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.spring.boot.autoconfigure:name=dataSource,type=DruidDataSourceWrapper]
+2019-08-05 17:06:17  [main:6447] - [MBeanExporter.java:668] - [INFO]  Located MBean 'statFilter': registering with JMX server as MBean [com.alibaba.druid.filter.stat:name=statFilter,type=StatFilter]
+2019-08-05 17:06:17  [main:6451] - [DefaultLifecycleProcessor.java:351] - [INFO]  Starting beans in phase 0
+2019-08-05 17:06:17  [main:6464] - [InstanceInfoFactory.java:71] - [INFO]  Setting initial instance status as: STARTING
+2019-08-05 17:06:17  [main:6498] - [DiscoveryClient.java:349] - [INFO]  Initializing Eureka in region us-east-1
+2019-08-05 17:06:17  [main:6734] - [DiscoveryJerseyProvider.java:70] - [INFO]  Using JSON encoding codec LegacyJacksonJson
+2019-08-05 17:06:17  [main:6735] - [DiscoveryJerseyProvider.java:71] - [INFO]  Using JSON decoding codec LegacyJacksonJson
+2019-08-05 17:06:17  [main:6850] - [DiscoveryJerseyProvider.java:80] - [INFO]  Using XML encoding codec XStreamXml
+2019-08-05 17:06:17  [main:6851] - [DiscoveryJerseyProvider.java:81] - [INFO]  Using XML decoding codec XStreamXml
+2019-08-05 17:06:18  [main:7099] - [ConfigClusterResolver.java:43] - [INFO]  Resolving eureka endpoints via configuration
+2019-08-05 17:06:18  [main:7138] - [DiscoveryClient.java:958] - [INFO]  Disable delta property : false
+2019-08-05 17:06:18  [main:7138] - [DiscoveryClient.java:959] - [INFO]  Single vip registry refresh property : null
+2019-08-05 17:06:18  [main:7139] - [DiscoveryClient.java:960] - [INFO]  Force full registry fetch : false
+2019-08-05 17:06:18  [main:7139] - [DiscoveryClient.java:961] - [INFO]  Application is null : false
+2019-08-05 17:06:18  [main:7139] - [DiscoveryClient.java:962] - [INFO]  Registered Applications size is zero : true
+2019-08-05 17:06:18  [main:7139] - [DiscoveryClient.java:964] - [INFO]  Application version is -1: true
+2019-08-05 17:06:18  [main:7139] - [DiscoveryClient.java:1047] - [INFO]  Getting all instance registry info from the eureka server
+2019-08-05 17:06:18  [main:7396] - [DiscoveryClient.java:1056] - [INFO]  The response status is 200
+2019-08-05 17:06:18  [main:7401] - [DiscoveryClient.java:1264] - [INFO]  Starting heartbeat executor: renew interval is: 30
+2019-08-05 17:06:18  [main:7406] - [InstanceInfoReplicator.java:60] - [INFO]  InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-08-05 17:06:18  [main:7411] - [DiscoveryClient.java:449] - [INFO]  Discovery Client initialized at timestamp 1564995978513 with initial instances count: 0
+2019-08-05 17:06:18  [main:7416] - [EurekaServiceRegistry.java:42] - [INFO]  Registering application microservice-service-admin with eureka with status UP
+2019-08-05 17:06:18  [main:7417] - [DiscoveryClient.java:1299] - [INFO]  Saw local status change event StatusChangeEvent [timestamp=1564995978521, current=UP, previous=STARTING]
+2019-08-05 17:06:18  [DiscoveryClient-InstanceInfoReplicator-0:7419] - [DiscoveryClient.java:826] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000: registering service...
+2019-08-05 17:06:18  [main:7468] - [TomcatWebServer.java:206] - [INFO]  Tomcat started on port(s): 9000 (http) with context path '/admin'
+2019-08-05 17:06:18  [main:7469] - [EurekaAutoServiceRegistration.java:124] - [INFO]  Updating port to 9000
+2019-08-05 17:06:18  [main:7472] - [StartupInfoLogger.java:59] - [INFO]  Started FramworkAdminApplication in 7.966 seconds (JVM running for 9.602)
+2019-08-05 17:06:18  [DiscoveryClient-InstanceInfoReplicator-0:7693] - [DiscoveryClient.java:835] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 - registration status: 204
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37401] - [DiscoveryClient.java:958] - [INFO]  Disable delta property : false
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37401] - [DiscoveryClient.java:959] - [INFO]  Single vip registry refresh property : null
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37402] - [DiscoveryClient.java:960] - [INFO]  Force full registry fetch : false
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37402] - [DiscoveryClient.java:961] - [INFO]  Application is null : false
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37402] - [DiscoveryClient.java:962] - [INFO]  Registered Applications size is zero : true
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37402] - [DiscoveryClient.java:964] - [INFO]  Application version is -1: false
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37402] - [DiscoveryClient.java:1047] - [INFO]  Getting all instance registry info from the eureka server
+2019-08-05 17:06:48  [DiscoveryClient-CacheRefreshExecutor-0:37455] - [DiscoveryClient.java:1056] - [INFO]  The response status is 200
+2019-08-05 17:06:50  [Eureka-EvictionTimer:312532] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:07:50  [Eureka-EvictionTimer:372532] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:08:50  [Eureka-EvictionTimer:432533] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:09:50  [Eureka-EvictionTimer:492533] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:10:50  [Eureka-EvictionTimer:552534] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:11:18  [AsyncResolver-bootstrap-executor-0:307142] - [ConfigClusterResolver.java:43] - [INFO]  Resolving eureka endpoints via configuration
+2019-08-05 17:11:50  [Eureka-EvictionTimer:612534] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:12:50  [Eureka-EvictionTimer:672534] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:13:50  [Eureka-EvictionTimer:732535] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:14:50  [Eureka-EvictionTimer:792543] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 8ms
+2019-08-05 17:15:50  [Eureka-EvictionTimer:852543] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-08-05 17:16:18  [AsyncResolver-bootstrap-executor-0:607158] - [ConfigClusterResolver.java:43] - [INFO]  Resolving eureka endpoints via configuration
+2019-08-05 17:16:25  [Thread-40:888462] - [AbstractApplicationContext.java:993] - [INFO]  Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@34abdee4: startup date [Mon Aug 05 17:01:39 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@40317ba2
+2019-08-05 17:16:25  [Thread-40:888463] - [EurekaServiceRegistry.java:65] - [INFO]  Unregistering application microservice-cloud-eureka with eureka with status DOWN
+2019-08-05 17:16:25  [Thread-40:888466] - [DefaultLifecycleProcessor.java:366] - [INFO]  Stopping beans in phase 0
+2019-08-05 17:16:25  [Thread-40:888467] - [DefaultEurekaServerContext.java:76] - [INFO]  Shutting down ...
+2019-08-05 17:16:25  [Thread-40:888471] - [DefaultEurekaServerContext.java:79] - [INFO]  Shut down
+2019-08-05 17:16:25  [Thread-40:888476] - [MBeanExporter.java:451] - [INFO]  Unregistering JMX-exposed beans on shutdown
+2019-08-05 17:16:25  [Thread-40:888478] - [MBeanRegistrationSupport.java:183] - [INFO]  Unregistering JMX-exposed beans
+2019-08-05 17:16:25  [Thread-40:888482] - [DiscoveryClient.java:888] - [INFO]  Shutting down DiscoveryClient ...
+2019-08-05 17:16:25  [Thread-40:888482] - [DiscoveryClient.java:911] - [INFO]  Completed shut down of DiscoveryClient
+2019-08-05 17:16:26  [Thread-20:615094] - [AbstractApplicationContext.java:993] - [INFO]  Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@50b8ae8d: startup date [Mon Aug 05 17:06:12 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@babafc2
+2019-08-05 17:16:26  [Thread-20:615095] - [EurekaServiceRegistry.java:65] - [INFO]  Unregistering application microservice-service-admin with eureka with status DOWN
+2019-08-05 17:16:26  [Thread-20:615095] - [DiscoveryClient.java:1297] - [WARN]  Saw local status change event StatusChangeEvent [timestamp=1564996586199, current=DOWN, previous=UP]
+2019-08-05 17:16:26  [DiscoveryClient-InstanceInfoReplicator-0:615096] - [DiscoveryClient.java:826] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000: registering service...
+2019-08-05 17:16:26  [Thread-20:615098] - [DefaultLifecycleProcessor.java:366] - [INFO]  Stopping beans in phase 0
+2019-08-05 17:16:26  [Thread-20:615100] - [MBeanExporter.java:451] - [INFO]  Unregistering JMX-exposed beans on shutdown
+2019-08-05 17:16:26  [Thread-20:615101] - [MBeanRegistrationSupport.java:183] - [INFO]  Unregistering JMX-exposed beans
+2019-08-05 17:16:26  [Thread-20:615106] - [DruidDataSource.java:1823] - [INFO]  {dataSource-1} closed
+2019-08-05 17:16:26  [Thread-20:615110] - [DiscoveryClient.java:888] - [INFO]  Shutting down DiscoveryClient ...
+2019-08-05 17:16:26  [Thread-20:615115] - [InitDestroyAnnotationBeanPostProcessor.java:163] - [WARN]  Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2019-08-05 17:16:26  [DiscoveryClient-InstanceInfoReplicator-0:615121] - [DiscoveryClient.java:835] - [INFO]  DiscoveryClient_MICROSERVICE-SERVICE-ADMIN/WIN-ANAPA7101CQ:microservice-service-admin:9000 - registration status: 204

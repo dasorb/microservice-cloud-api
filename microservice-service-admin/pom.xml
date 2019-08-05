@@ -3,9 +3,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>microservice-erueka</artifactId>
-    <name>microservice-eureka</name>
-    <description>服务注册中心</description>
+    <artifactId>framwork-admin</artifactId>
+    <name>framework-admin</name>
+    <description>基础核心服务</description>
 
     <parent>
         <groupId>com.dasorb</groupId>
@@ -15,17 +15,15 @@
     </parent>
 
     <dependencies>
-        <!-- 父类引入springboot,springboot-web-start,fastjson,slf4j,lombok -->
 
-        <!-- 引入eureka-server-->
         <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
+            <groupId>com.dasorb</groupId>
+            <artifactId>framwork-common</artifactId>
         </dependency>
 
     </dependencies>
 
-    <!-- 插件 -->
+
     <build>
         <plugins>
             <plugin>

@@ -7,17 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservice-eureka" />
+        <module name="microservice-common" />
+        <module name="microservice-service-admin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="microservice-common" target="1.8" />
       <module name="microservice-eureka" target="1.8" />
       <module name="microservice-pom" target="1.8" />
+      <module name="microservice-service-admin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="microservice-common" options="-parameters" />
       <module name="microservice-eureka" options="-parameters" />
       <module name="microservice-pom" options="-parameters" />
+      <module name="microservice-service-admin" options="-parameters" />
     </option>
   </component>
 </project>
