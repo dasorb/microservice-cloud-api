@@ -1,0 +1,188 @@
+2019-07-31 11:31:11  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-07-31 11:31:12  [main:591] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@379614be: startup date [Wed Jul 31 11:31:12 CST 2019]; root of context hierarchy
+2019-07-31 11:31:13  [main:1308] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-31 11:31:13  [main:1413] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a9e6a8b6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-31 11:31:14  [main:2073] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-07-31 11:31:14  [main:2099] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@76318a7d: startup date [Wed Jul 31 11:31:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@379614be
+2019-07-31 11:31:15  [main:3964] - [GenericScope.java:294] - [INFO]  BeanFactory id=334a4d33-6e4e-347d-837c-b3a924719e82
+2019-07-31 11:31:15  [main:3980] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-31 11:31:16  [main:4071] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a9e6a8b6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-31 11:31:16  [main:4491] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 8761 (http)
+2019-07-31 11:31:16  [localhost-startStop-1:4777] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 2678 ms
+2019-07-31 11:31:17  [localhost-startStop-1:5182] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-07-31 11:31:17  [localhost-startStop-1:5182] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-07-31 11:31:17  [localhost-startStop-1:5206] - [DynamicPropertyFactory.java:281] - [INFO]  DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@36d6e634
+2019-07-31 11:31:18  [localhost-startStop-1:6888] - [ServletRegistrationBean.java:185] - [INFO]  Servlet dispatcherServlet mapped to [/]
+2019-07-31 11:31:18  [localhost-startStop-1:6893] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-07-31 11:31:18  [localhost-startStop-1:6894] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-07-31 11:31:18  [localhost-startStop-1:6894] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-07-31 11:31:18  [localhost-startStop-1:6895] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'requestContextFilter' to: [/*]
+2019-07-31 11:31:18  [localhost-startStop-1:6895] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpTraceFilter' to: [/*]
+2019-07-31 11:31:18  [localhost-startStop-1:6895] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'webMvcMetricsFilter' to: [/*]
+2019-07-31 11:31:18  [main:6959] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-07-31 11:31:18  [main:6960] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-07-31 11:31:19  [main:7040] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-31 11:31:19  [main:7286] - [RequestMappingHandlerAdapter.java:574] - [INFO]  Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@76318a7d: startup date [Wed Jul 31 11:31:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@379614be
+2019-07-31 11:31:19  [main:7392] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-31 11:31:19  [main:7394] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-31 11:31:19  [main:7445] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-31 11:31:19  [main:7446] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-31 11:31:23  [main:11156] - [SpringTemplateLoader.java:62] - [INFO]  SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@76318a7d: startup date [Wed Jul 31 11:31:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@379614be] and template loader path [classpath:/templates/]
+2019-07-31 11:31:23  [main:11158] - [FreeMarkerConfigurer.java:131] - [INFO]  ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2019-07-31 11:31:23  [main:11537] - [EndpointLinksResolver.java:59] - [INFO]  Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-07-31 11:31:23  [main:11556] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-07-31 11:31:23  [main:11557] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-07-31 11:31:23  [main:11558] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-31 11:31:23  [main:11616] - [MBeanExporter.java:433] - [INFO]  Registering beans for JMX exposure on startup
+2019-07-31 11:31:23  [main:11629] - [MBeanExporter.java:895] - [INFO]  Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-07-31 11:31:23  [main:11632] - [MBeanExporter.java:895] - [INFO]  Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-07-31 11:31:23  [main:11633] - [MBeanExporter.java:895] - [INFO]  Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-07-31 11:31:23  [main:11637] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-07-31 11:31:23  [main:11648] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-07-31 11:31:23  [main:11661] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=76318a7d,type=ConfigurationPropertiesRebinder]
+2019-07-31 11:31:23  [main:11764] - [DefaultLifecycleProcessor.java:351] - [INFO]  Starting beans in phase 0
+2019-07-31 11:31:23  [main:11833] - [InstanceInfoFactory.java:71] - [INFO]  Setting initial instance status as: STARTING
+2019-07-31 11:31:23  [main:11914] - [DiscoveryClient.java:349] - [INFO]  Initializing Eureka in region us-east-1
+2019-07-31 11:31:23  [main:11914] - [DiscoveryClient.java:352] - [INFO]  Client configured to neither register nor query for data.
+2019-07-31 11:31:23  [main:11997] - [DiscoveryClient.java:365] - [INFO]  Discovery Client initialized at timestamp 1564543883951 with initial instances count: 0
+2019-07-31 11:31:23  [main:12005] - [EurekaServiceRegistry.java:42] - [INFO]  Registering application microservice-cloud-eureka with eureka with status UP
+2019-07-31 11:31:24  [main:12103] - [TomcatWebServer.java:206] - [INFO]  Tomcat started on port(s): 8761 (http) with context path ''
+2019-07-31 11:31:24  [main:12104] - [EurekaAutoServiceRegistration.java:124] - [INFO]  Updating port to 8761
+2019-07-31 11:31:24  [main:12106] - [StartupInfoLogger.java:59] - [INFO]  Started EurekaApplication in 12.574 seconds (JVM running for 14.027)
+2019-07-31 11:31:24  [RMI TCP Connection(3)-10.1.75.9:12698] - [FrameworkServlet.java:494] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization started
+2019-07-31 11:31:24  [RMI TCP Connection(3)-10.1.75.9:12725] - [FrameworkServlet.java:509] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization completed in 26 ms
+2019-07-31 11:35:55  [Thread-33:283636] - [AbstractApplicationContext.java:993] - [INFO]  Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@76318a7d: startup date [Wed Jul 31 11:31:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@379614be
+2019-07-31 11:35:55  [Thread-33:283637] - [EurekaServiceRegistry.java:65] - [INFO]  Unregistering application microservice-cloud-eureka with eureka with status DOWN
+2019-07-31 11:35:55  [Thread-33:283640] - [DefaultLifecycleProcessor.java:366] - [INFO]  Stopping beans in phase 0
+2019-07-31 11:35:55  [Thread-33:283642] - [MBeanExporter.java:451] - [INFO]  Unregistering JMX-exposed beans on shutdown
+2019-07-31 11:35:55  [Thread-33:283643] - [MBeanRegistrationSupport.java:183] - [INFO]  Unregistering JMX-exposed beans
+2019-07-31 11:35:55  [Thread-33:283647] - [DiscoveryClient.java:888] - [INFO]  Shutting down DiscoveryClient ...
+2019-07-31 11:35:55  [Thread-33:283647] - [DiscoveryClient.java:911] - [INFO]  Completed shut down of DiscoveryClient
+2019-07-31 11:36:09  [background-preinit:0] - [Version.java:21] - [INFO]  HV000001: Hibernate Validator 6.0.9.Final
+2019-07-31 11:36:09  [main:455] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@19e7a160: startup date [Wed Jul 31 11:36:09 CST 2019]; root of context hierarchy
+2019-07-31 11:36:09  [main:885] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-31 11:36:10  [main:978] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ce54d78e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-31 11:36:10  [main:1757] - [SpringApplication.java:659] - [INFO]  No active profile set, falling back to default profiles: default
+2019-07-31 11:36:10  [main:1801] - [AbstractApplicationContext.java:590] - [INFO]  Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3fabf088: startup date [Wed Jul 31 11:36:10 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@19e7a160
+2019-07-31 11:36:12  [main:3465] - [GenericScope.java:294] - [INFO]  BeanFactory id=6cdf0269-340b-36a0-af27-fa366125f66b
+2019-07-31 11:36:12  [main:3491] - [AutowiredAnnotationBeanPostProcessor.java:154] - [INFO]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-31 11:36:12  [main:3676] - [PostProcessorRegistrationDelegate.java:328] - [INFO]  Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ce54d78e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-31 11:36:13  [main:4033] - [TomcatWebServer.java:91] - [INFO]  Tomcat initialized with port(s): 8761 (http)
+2019-07-31 11:36:13  [localhost-startStop-1:4338] - [ServletWebServerApplicationContext.java:285] - [INFO]  Root WebApplicationContext: initialization completed in 2537 ms
+2019-07-31 11:36:13  [localhost-startStop-1:4830] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-07-31 11:36:13  [localhost-startStop-1:4832] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-07-31 11:36:13  [localhost-startStop-1:4850] - [DynamicPropertyFactory.java:281] - [INFO]  DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@4f90ab75
+2019-07-31 11:36:15  [localhost-startStop-1:6182] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-07-31 11:36:15  [localhost-startStop-1:6183] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-07-31 11:36:15  [localhost-startStop-1:6185] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-07-31 11:36:15  [localhost-startStop-1:6186] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'requestContextFilter' to: [/*]
+2019-07-31 11:36:15  [localhost-startStop-1:6186] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'httpTraceFilter' to: [/*]
+2019-07-31 11:36:15  [localhost-startStop-1:6186] - [AbstractFilterRegistrationBean.java:244] - [INFO]  Mapping filter: 'webMvcMetricsFilter' to: [/*]
+2019-07-31 11:36:15  [localhost-startStop-1:6187] - [AbstractFilterRegistrationBean.java:257] - [INFO]  Mapping filter: 'servletContainer' to urls: [/eureka/*]
+2019-07-31 11:36:15  [localhost-startStop-1:6187] - [ServletRegistrationBean.java:185] - [INFO]  Servlet dispatcherServlet mapped to [/]
+2019-07-31 11:36:15  [localhost-startStop-1:6382] - [DiscoveryJerseyProvider.java:70] - [INFO]  Using JSON encoding codec LegacyJacksonJson
+2019-07-31 11:36:15  [localhost-startStop-1:6382] - [DiscoveryJerseyProvider.java:71] - [INFO]  Using JSON decoding codec LegacyJacksonJson
+2019-07-31 11:36:15  [localhost-startStop-1:6542] - [DiscoveryJerseyProvider.java:80] - [INFO]  Using XML encoding codec XStreamXml
+2019-07-31 11:36:15  [localhost-startStop-1:6542] - [DiscoveryJerseyProvider.java:81] - [INFO]  Using XML decoding codec XStreamXml
+2019-07-31 11:36:16  [main:7017] - [URLConfigurationSource.java:121] - [WARN]  No URLs will be polled as dynamic configuration sources.
+2019-07-31 11:36:16  [main:7017] - [URLConfigurationSource.java:122] - [INFO]  To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-07-31 11:36:16  [main:7099] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-31 11:36:16  [main:7308] - [RequestMappingHandlerAdapter.java:574] - [INFO]  Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3fabf088: startup date [Wed Jul 31 11:36:10 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@19e7a160
+2019-07-31 11:36:16  [main:7376] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-31 11:36:16  [main:7377] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-31 11:36:16  [main:7382] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2019-07-31 11:36:16  [main:7382] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+2019-07-31 11:36:16  [main:7416] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-31 11:36:16  [main:7416] - [AbstractUrlHandlerMapping.java:373] - [INFO]  Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-31 11:36:16  [main:7836] - [SpringTemplateLoader.java:62] - [INFO]  SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3fabf088: startup date [Wed Jul 31 11:36:10 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@19e7a160] and template loader path [classpath:/templates/]
+2019-07-31 11:36:16  [main:7837] - [FreeMarkerConfigurer.java:131] - [INFO]  ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2019-07-31 11:36:17  [main:8039] - [InstanceInfoFactory.java:71] - [INFO]  Setting initial instance status as: STARTING
+2019-07-31 11:36:17  [main:8073] - [DiscoveryClient.java:349] - [INFO]  Initializing Eureka in region us-east-1
+2019-07-31 11:36:17  [main:8073] - [DiscoveryClient.java:352] - [INFO]  Client configured to neither register nor query for data.
+2019-07-31 11:36:17  [main:8079] - [DiscoveryClient.java:365] - [INFO]  Discovery Client initialized at timestamp 1564544177135 with initial instances count: 0
+2019-07-31 11:36:17  [main:8147] - [DefaultEurekaServerContext.java:63] - [INFO]  Initializing ...
+2019-07-31 11:36:17  [main:8148] - [PeerEurekaNodes.java:188] - [INFO]  Adding new peer nodes [http://localhost:8761/eureka/]
+2019-07-31 11:36:17  [main:8443] - [DiscoveryJerseyProvider.java:70] - [INFO]  Using JSON encoding codec LegacyJacksonJson
+2019-07-31 11:36:17  [main:8443] - [DiscoveryJerseyProvider.java:71] - [INFO]  Using JSON decoding codec LegacyJacksonJson
+2019-07-31 11:36:17  [main:8443] - [DiscoveryJerseyProvider.java:80] - [INFO]  Using XML encoding codec XStreamXml
+2019-07-31 11:36:17  [main:8443] - [DiscoveryJerseyProvider.java:81] - [INFO]  Using XML decoding codec XStreamXml
+2019-07-31 11:36:17  [main:8574] - [PeerEurekaNodes.java:110] - [INFO]  Replica node URL:  http://localhost:8761/eureka/
+2019-07-31 11:36:17  [main:8583] - [AbstractInstanceRegistry.java:151] - [INFO]  Finished initializing remote region registries. All known remote regions: []
+2019-07-31 11:36:17  [main:8584] - [DefaultEurekaServerContext.java:70] - [INFO]  Initialized
+2019-07-31 11:36:17  [main:8602] - [EndpointLinksResolver.java:59] - [INFO]  Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-07-31 11:36:17  [main:8613] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-07-31 11:36:17  [main:8614] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)
+2019-07-31 11:36:17  [main:8615] - [AbstractHandlerMethodMapping.java:547] - [INFO]  Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-31 11:36:17  [main:8669] - [MBeanExporter.java:433] - [INFO]  Registering beans for JMX exposure on startup
+2019-07-31 11:36:17  [main:8681] - [MBeanExporter.java:895] - [INFO]  Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-07-31 11:36:17  [main:8683] - [MBeanExporter.java:895] - [INFO]  Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-07-31 11:36:17  [main:8683] - [MBeanExporter.java:895] - [INFO]  Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-07-31 11:36:17  [main:8686] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-07-31 11:36:17  [main:8695] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-07-31 11:36:17  [main:8710] - [MBeanExporter.java:675] - [INFO]  Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=3fabf088,type=ConfigurationPropertiesRebinder]
+2019-07-31 11:36:17  [main:8723] - [DefaultLifecycleProcessor.java:351] - [INFO]  Starting beans in phase 0
+2019-07-31 11:36:17  [main:8729] - [EurekaServiceRegistry.java:42] - [INFO]  Registering application microservice-cloud-eureka with eureka with status UP
+2019-07-31 11:36:17  [Thread-31:8734] - [EurekaServerBootstrap.java:109] - [INFO]  Setting the eureka configuration..
+2019-07-31 11:36:17  [Thread-31:8735] - [EurekaServerBootstrap.java:114] - [INFO]  Eureka data center value eureka.datacenter is not set, defaulting to default
+2019-07-31 11:36:17  [Thread-31:8735] - [EurekaServerBootstrap.java:128] - [INFO]  Eureka environment value eureka.environment is not set, defaulting to test
+2019-07-31 11:36:17  [Thread-31:8762] - [EurekaServerBootstrap.java:184] - [INFO]  isAws returned false
+2019-07-31 11:36:17  [Thread-31:8763] - [EurekaServerBootstrap.java:152] - [INFO]  Initialized server context
+2019-07-31 11:36:17  [Thread-31:8765] - [PeerAwareInstanceRegistryImpl.java:242] - [INFO]  Got 1 instances from neighboring DS node
+2019-07-31 11:36:17  [Thread-31:8765] - [PeerAwareInstanceRegistryImpl.java:243] - [INFO]  Renew threshold is: 1
+2019-07-31 11:36:17  [Thread-31:8766] - [PeerAwareInstanceRegistryImpl.java:254] - [INFO]  Changing status to UP
+2019-07-31 11:36:17  [Thread-31:8772] - [EurekaServerInitializerConfiguration.java:72] - [INFO]  Started Eureka Server
+2019-07-31 11:36:17  [main:8785] - [TomcatWebServer.java:206] - [INFO]  Tomcat started on port(s): 8761 (http) with context path ''
+2019-07-31 11:36:17  [main:8786] - [EurekaAutoServiceRegistration.java:124] - [INFO]  Updating port to 8761
+2019-07-31 11:36:17  [main:8788] - [StartupInfoLogger.java:59] - [INFO]  Started EurekaApplication in 9.103 seconds (JVM running for 10.221)
+2019-07-31 11:36:18  [RMI TCP Connection(2)-10.1.75.9:9069] - [FrameworkServlet.java:494] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization started
+2019-07-31 11:36:18  [RMI TCP Connection(2)-10.1.75.9:9094] - [FrameworkServlet.java:509] - [INFO]  FrameworkServlet 'dispatcherServlet': initialization completed in 24 ms
+2019-07-31 11:37:17  [Eureka-EvictionTimer:68767] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:38:17  [Eureka-EvictionTimer:128767] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:39:17  [Eureka-EvictionTimer:188767] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:40:17  [Eureka-EvictionTimer:248767] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:41:17  [Eureka-EvictionTimer:308768] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:42:17  [Eureka-EvictionTimer:368768] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:43:17  [Eureka-EvictionTimer:428769] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:44:17  [Eureka-EvictionTimer:488769] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:45:17  [Eureka-EvictionTimer:548770] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:46:17  [Eureka-EvictionTimer:608770] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:47:17  [Eureka-EvictionTimer:668771] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:48:17  [Eureka-EvictionTimer:728771] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:49:17  [Eureka-EvictionTimer:788772] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:50:17  [Eureka-EvictionTimer:848773] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:51:17  [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater:908584] - [PeerAwareInstanceRegistryImpl.java:541] - [INFO]  Current renewal threshold is : 1
+2019-07-31 11:51:17  [Eureka-EvictionTimer:908773] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:52:17  [Eureka-EvictionTimer:968774] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:53:17  [Eureka-EvictionTimer:1028774] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:54:17  [Eureka-EvictionTimer:1088775] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:55:17  [Eureka-EvictionTimer:1148775] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:56:17  [Eureka-EvictionTimer:1208776] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:57:17  [Eureka-EvictionTimer:1268776] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:58:17  [Eureka-EvictionTimer:1328777] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 11:59:17  [Eureka-EvictionTimer:1388777] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:00:17  [Eureka-EvictionTimer:1448778] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:01:17  [Eureka-EvictionTimer:1508779] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:02:17  [Eureka-EvictionTimer:1568779] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:03:17  [Eureka-EvictionTimer:1628780] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:04:17  [Eureka-EvictionTimer:1688780] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:05:17  [Eureka-EvictionTimer:1748781] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:06:17  [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater:1808584] - [PeerAwareInstanceRegistryImpl.java:541] - [INFO]  Current renewal threshold is : 1
+2019-07-31 12:06:17  [Eureka-EvictionTimer:1808781] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:07:17  [Eureka-EvictionTimer:1868782] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:08:17  [Eureka-EvictionTimer:1928782] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:09:17  [Eureka-EvictionTimer:1988782] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:10:17  [Eureka-EvictionTimer:2048783] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:11:17  [Eureka-EvictionTimer:2108784] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:12:17  [Eureka-EvictionTimer:2168784] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:13:17  [Eureka-EvictionTimer:2228785] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:14:17  [Eureka-EvictionTimer:2288786] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:15:17  [Eureka-EvictionTimer:2348786] - [AbstractInstanceRegistry.java:1247] - [INFO]  Running the evict task with compensationTime 0ms
+2019-07-31 12:15:42  [Thread-33:2373853] - [AbstractApplicationContext.java:993] - [INFO]  Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3fabf088: startup date [Wed Jul 31 11:36:10 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@19e7a160
+2019-07-31 12:15:42  [Thread-33:2373854] - [EurekaServiceRegistry.java:65] - [INFO]  Unregistering application microservice-cloud-eureka with eureka with status DOWN
+2019-07-31 12:15:42  [Thread-33:2373855] - [DefaultLifecycleProcessor.java:366] - [INFO]  Stopping beans in phase 0
+2019-07-31 12:15:42  [Thread-33:2373857] - [DefaultEurekaServerContext.java:76] - [INFO]  Shutting down ...
+2019-07-31 12:15:42  [Thread-33:2373861] - [DefaultEurekaServerContext.java:79] - [INFO]  Shut down
+2019-07-31 12:15:42  [Thread-33:2373865] - [MBeanExporter.java:451] - [INFO]  Unregistering JMX-exposed beans on shutdown
+2019-07-31 12:15:42  [Thread-33:2373866] - [MBeanRegistrationSupport.java:183] - [INFO]  Unregistering JMX-exposed beans
+2019-07-31 12:15:42  [Thread-33:2373869] - [DiscoveryClient.java:888] - [INFO]  Shutting down DiscoveryClient ...
+2019-07-31 12:15:42  [Thread-33:2373869] - [DiscoveryClient.java:911] - [INFO]  Completed shut down of DiscoveryClient
