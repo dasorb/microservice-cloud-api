@@ -3,8 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>framwork-common</artifactId>
-    <name>framework-common</name>
+    <artifactId>microservice-common</artifactId>
+    <name>microservice-common</name>
     <description>通用模块</description>
 
     <parent>

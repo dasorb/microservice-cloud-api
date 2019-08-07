@@ -3,8 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>framwork-admin</artifactId>
-    <name>framework-admin</name>
+    <artifactId>microservice-admin</artifactId>
+    <name>microservice-admin</name>
     <description>基础核心服务</description>
 
     <parent>
@@ -16,9 +16,10 @@
 
     <dependencies>
 
+        <!-- 公共组件 -->
         <dependency>
             <groupId>com.dasorb</groupId>
-            <artifactId>framwork-common</artifactId>
+            <artifactId>microservice-common</artifactId>
         </dependency>
 
     </dependencies>

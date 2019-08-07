@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="microservice-gateway" />
         <module name="microservice-eureka" />
         <module name="microservice-common" />
         <module name="microservice-service-admin" />
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="microservice-common" target="1.8" />
       <module name="microservice-eureka" target="1.8" />
+      <module name="microservice-gateway" target="1.8" />
       <module name="microservice-pom" target="1.8" />
       <module name="microservice-service-admin" target="1.8" />
     </bytecodeTargetLevel>
@@ -22,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="microservice-common" options="-parameters" />
       <module name="microservice-eureka" options="-parameters" />
+      <module name="microservice-gateway" options="-parameters" />
       <module name="microservice-pom" options="-parameters" />
       <module name="microservice-service-admin" options="-parameters" />
     </option>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/microservice-common/microservice-common.iml" filepath="$PROJECT_DIR$/microservice-common/microservice-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-eureka/microservice-erueka.iml" filepath="$PROJECT_DIR$/microservice-eureka/microservice-erueka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-gateway/microservice-gateway.iml" filepath="$PROJECT_DIR$/microservice-gateway/microservice-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-pom/microservice-pom.iml" filepath="$PROJECT_DIR$/microservice-pom/microservice-pom.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-service-admin/microservice-service-admin.iml" filepath="$PROJECT_DIR$/microservice-service-admin/microservice-service-admin.iml" />
     </modules>

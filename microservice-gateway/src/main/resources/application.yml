@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: api-gateway
+server:
+  port: 9000
+  servlet:
+    context-path: /gateway
+
+# 指定Eureka注册中心位置
+eureka:
+  client:
+    service-url:
+      defaultZone: http://39.105.179.56:8761/eureka/
+
+# 网关路由配置
+zuul:
+  routes:
+    # 自定义映射关系
+    api-admin:
+      path: /admin/**
+      # 路由前缀是否为路径
+      strip-prefix: false
+      # 指定服务注册ID，通过服务id进行路由
+      service-id: microservice-service-admin
+
+
